@@ -1,7 +1,6 @@
 # StompProtocolAndroid fix
 
-STOMP client for Android
-WebSocket client for Android
+WebSocket client for Android (via STOMP protocol)
 
 I did this because the original resource did not work for me
 
