@@ -1,4 +1,6 @@
-# Source: https://github.com/NaikSoftware/StompProtocolAndroid
+# StompProtocolAndroid fix
+
+Source: https://github.com/NaikSoftware/StompProtocolAndroid
 
 # To get a Git project into your build:
 
