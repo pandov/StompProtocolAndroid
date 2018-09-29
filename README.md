@@ -1,5 +1,10 @@
 # StompProtocolAndroid fix
 
+STOMP client for Android
+WebSocket client for Android
+
+I did this because the original resource did not work for me
+
 Source: https://github.com/NaikSoftware/StompProtocolAndroid
 
 # To get a Git project into your build:
